@@ -1,0 +1,11 @@
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\bin\Debug\netcoreapp2.0\TinyForum.deps.json
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\bin\Debug\netcoreapp2.0\TinyForum.runtimeconfig.json
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\bin\Debug\netcoreapp2.0\TinyForum.runtimeconfig.dev.json
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\bin\Debug\netcoreapp2.0\TinyForum.dll
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\obj\Debug\netcoreapp2.0\TinyForum.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\obj\Debug\netcoreapp2.0\TinyForum.csproj.CoreCompileInputs.cache
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\obj\Debug\netcoreapp2.0\TinyForum.AssemblyInfoInputs.cache
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\obj\Debug\netcoreapp2.0\TinyForum.AssemblyInfo.cs
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\bin\Debug\netcoreapp2.0\TinyForum.pdb
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\obj\Debug\netcoreapp2.0\TinyForum.dll
+C:\Users\huangqiming\Documents\GitHub\TinyForum\TinyForum\obj\Debug\netcoreapp2.0\TinyForum.pdb

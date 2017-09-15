@@ -1,0 +1,22 @@
+﻿@using TinyForum.ViewComponents;
+<div class="panel panel-default" style="margin-top:20px;">
+    <div class="panel-heading">
+        <h3 class="panel-title">本周图书</h3>
+    </div>
+    <div class="panel-body">
+        文学：<br />
+        现代汉语词典<br />
+        流行：<br />
+        现代汉语词典 <br />
+        经管：<br />
+        现代汉语词典<br />
+        科技：<br />
+        现代汉语词典<br />
+        生活：<br />
+        现代汉语词典<br />
+        文化：<br />
+        现代汉语词典<br />
+    </div>
+</div>
+@(await Component.InvokeAsync<TopicRankList>(new { days = 30 }))
+@(await Component.InvokeAsync<Statistics>())
